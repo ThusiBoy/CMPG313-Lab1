@@ -1,9 +1,9 @@
 # CMPG 313 Lab 1 - YOLOv8 Object Detection
 
 ## Student Information
-- **Name:** ThusiBoy
-- **Student Number:** [Add your student number here]
-- **Date:** March 2026
+- **Name: mothusi ramatlapeng
+- **Student Number:39433080
+- **Date:09 March 2026
 
 ## Files in this Repository
 - `lab_1.py` - Main Python script
